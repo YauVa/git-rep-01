@@ -12,3 +12,6 @@ changes2
 
 feature: change1
 feature: change2
+
+The ship glides gently on the waves
+As day turns into night
