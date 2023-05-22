@@ -9,9 +9,3 @@ changes1
 changes2
 
 20.09 changes3
-
-20.32
-changes4
-changes5
-changes6
-----------------------
