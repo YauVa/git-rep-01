@@ -13,13 +13,15 @@ changes2
 feature: change1
 feature: change2
 
-feature:
-The ship glides gently on the waves
-As day turns into night
-
-
 main:
 sword and spear
 wall of shields
 standing strong
 on this their chosen battlefield
+
+new feature:
+The ship glides gently on the waves
+As day turns into night
+One thousand burning arrows
+Fill the starlit sky
+
