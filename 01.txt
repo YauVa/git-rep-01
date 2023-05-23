@@ -13,6 +13,8 @@ changes2
 feature: change1
 feature: change2
 
-feature:
+new feature:
 The ship glides gently on the waves
 As day turns into night
+One thousand burning arrows
+Fill the starlit sky
